@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/tfcloud/wiki/issues"
   },
-  "homepage": "https://github.com/tfcloud/wiki#readme"
+  "homepage": "https://github.com/tfcloud/wiki#readme",
+  "dependencies": {
+    "npminstall": "^3.12.0"
+  }
 }
