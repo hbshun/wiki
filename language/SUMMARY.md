@@ -1,4 +1,5 @@
 * [C++](C++/README.md)
+    * [fundamental](C++/fundamental.md)
 * [ECMAScript](ECMAScript/README.md)
 * [golang](golang/README.md)
 * [python](python/README.md)
