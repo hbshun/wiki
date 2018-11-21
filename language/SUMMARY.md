@@ -1,5 +1,7 @@
 * [C++](C++/README.md)
     * [fundamental](C++/fundamental.md)
 * [ECMAScript](ECMAScript/README.md)
+* [node.js](node.js/README.md)
+    * [event](node.js/event.md)
 * [golang](golang/README.md)
 * [python](python/README.md)
