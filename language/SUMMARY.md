@@ -4,4 +4,7 @@
 * [node.js](node.js/README.md)
     * [event](node.js/event.md)
 * [golang](golang/README.md)
+    * [import](golang/import.md)
+    * [json](golang/json.md)
+    * [interface](golang/interface.md)
 * [python](python/README.md)
