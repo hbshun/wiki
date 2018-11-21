@@ -2,4 +2,5 @@
     * [fundamental](C++/fundamental.md)
 * [ECMAScript](ECMAScript/README.md)
 * [golang](golang/README.md)
+    * [import](golang/import.md)
 * [python](python/README.md)
